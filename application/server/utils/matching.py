@@ -27,4 +27,3 @@ def similarities(expectation, actual):
     distances_normalized = np.exp((-distances ** 2) / (2 * std ** 2))
 
     return distances_normalized, distances
-
