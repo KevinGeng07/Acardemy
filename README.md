@@ -1,8 +1,8 @@
-# EdEqTech: College Matching for Underserved Students
+# EquiMatch: College Matching for Underserved Students
 
 ## Project Overview
 
-EdEqTech is a college matching platform designed to help underserved students find their perfect college based on personalized criteria. Students input factors such as location, race, gender, and other preferences. The platform uses an intelligent matching algorithm to recommend the top 3 best-fit colleges, displaying comprehensive visual scorecards and descriptions for each choice.
+EquiMatch is a college matching platform designed to help underserved students find their perfect college based on personalized criteria. Students input factors such as location, race, gender, and other preferences. The platform uses an intelligent matching algorithm to recommend the top 3 best-fit colleges, displaying comprehensive visual scorecards and descriptions for each choice.
 
 ### Mission
 To improve educational equity by empowering underserved students with data-driven college recommendations that consider their unique circumstances and preferences.
@@ -24,7 +24,7 @@ To improve educational equity by empowering underserved students with data-drive
 ## Project Structure
 
 ```
-EdEqTech/
+EquiMatch/
 ├── application/               # Frontend and backend application
 │   ├── frontend/             # Next.js React web interface
 │   ├── server/               # FastAPI backend server
